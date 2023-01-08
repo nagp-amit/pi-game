@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import {zzfx} from 'ZzFX'
+import {zzfx} from 'zzfx.js'
 import './pi.css';
 
 const Pi = () => {
